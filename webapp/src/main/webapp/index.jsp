@@ -1,1 +1,1 @@
-The CICD Testing in Jenkins automation..After remote checking via Jenkins
+The CICD Testing in Jenkins automation..THis is ansible playbook involved
