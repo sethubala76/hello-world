@@ -1,1 +1,1 @@
-The CICD Testing in Jenkins automation.. After POLL JOB.
+The CICD Testing in Jenkins automation..After remote checking via Jenkins
